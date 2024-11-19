@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Large files
+public/data/Merged_sigungu_simply.json
+public/data/Merged_sigungu2.json
